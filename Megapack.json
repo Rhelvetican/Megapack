@@ -1,0 +1,17 @@
+{
+    "id": "mgpk",
+    "name": "Megapack",
+    "display_name": "Megapack",
+    "author": [
+        "Rhelvetican"
+    ],
+    "description": "A bunch of miscellaneous card packs.",
+    "prefix": "mgpk",
+    "main_file": "Megapack.lua",
+    "priority": 1e300,
+    "badge_colour": "2DF79F",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded"
+    ]
+}
